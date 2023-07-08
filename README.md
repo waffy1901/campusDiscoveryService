@@ -1,2 +1,1 @@
-# Sprint1
-Development foundation for the Campus Discovery Project
+Georgia Tech Campus Discovery Service App: can be run via an emulator on Android Studio.
